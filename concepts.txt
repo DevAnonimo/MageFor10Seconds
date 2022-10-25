@@ -1,0 +1,60 @@
+A CADA 10 SEGUNDOS
+
+Mage for 10 seconds
+
+Um mago que quer provar que consegue derrotar seu oponente necromancer através do conhecimento verdadeiro
+
+Matar monstros:
+ - 3 tipos de ações: Ataque, defesa e upgrades
+ - A cada 10 segundos, o Monstro precisa estar morto
+
+Monstro:
+ - Tenta alcançar o player, se chegar é game over;
+ - Tipos: globin, Titan de pedra, caveira de fogo, junção de todos anteriores + lobisomem, mago
+
+O que cada monstro faz:
+Caveira:
+ - Não é atingida pelo tiro;
+Mago:
+ - Pode spawnar outros monstros pela metade da vida. Quando esses monstros morrem, podem spawnar 1 de mana
+ - Possui um escudo das trevas
+
+
+Magias:
+ - Cooldown no uso da mana - Representação por barra inferior
+ - Tiro gasta 2 de mana, shield gasta 3
+ - Livro que faz o mago aprender novas habilidades
+ - Upgrade de habilidade quando passa de level
+
+
+Upgrades:
+ - Cooldown de mana
+ - Tempo de shield
+ - Ataques únicos custam menos mana
+ - Ataques segurados custam menos mana
+ - Ataques segurados empurram inimigos
+
+
+Miscellaneous:
+ - Animações entre troca de fases. O cenário vai mostrando objetos estranhos
+ - Animações de sprites para tutorial
+ - Jogo tem uma trapaça de ajustar o dano do player quando o inimigo está muito perto
+
+
+Ideias
+ - Quando usado um escudo, ele pode dropar objetos no cenário que oferecem algum bônus ao usuário
+ - Quando apertar e segurar, o último poder enviado causa mais dano em troca de mana
+
+
+References:
+https://opengameart.org/content/a-load-of-overworld-34-rpg-sprites
+https://opengameart.org/content/mage-attack
+https://opengameart.org/content/lpc-lifebars
+https://opengameart.org/content/pure-projectile-magic-effect
+https://opengameart.org/content/magic-books
+https://opengameart.org/content/ui-button-set
+https://opengameart.org/content/shield-aura-effect
+https://opengameart.org/content/radial-lightning-effect
+https://freesound.org/people/TheoTer/sounds/510803/
+https://freesound.org/people/cabled_mess/sounds/350986/
+https://sfxr.me/
